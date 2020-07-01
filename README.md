@@ -1,2 +1,2 @@
 # My projects
-Here you can see my Python code
+Here you can see my code
